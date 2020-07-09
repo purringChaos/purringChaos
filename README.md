@@ -1,3 +1,4 @@
+```cpp
 /*
  * Copyright (c) 2016 Andrew Kelley
  *
@@ -32458,3 +32459,4 @@ void dbg_ir_break(const char *src_file, uint32_t line) {
 void dbg_ir_clear(void) {
     dbg_ir_breakpoints_count = 0;
 }
+```
